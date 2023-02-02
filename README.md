@@ -1,5 +1,8 @@
+## Warning
+**This plugin has been moved to a new repository, it's no longer updated on this repository. Please see https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_jupyternotebook for the latest version.**
+
 # Moodle Jupyternotebook module
-- Source Code: https://github.com/reseaucanope/moodle-mod_jupyternotebook
+- Source Code: https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_jupyternotebook
 - License: http://www.gnu.org/licenses/gpl-3.0.html
 
 ## Install from an archive
